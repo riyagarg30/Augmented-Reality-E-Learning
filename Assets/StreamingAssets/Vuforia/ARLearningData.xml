@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Shoes4" size="5.000000 3.331843" />
+    <ImageTarget name="IceCream2" size="5.000000 7.499265" />
+    <ImageTarget name="Shoes3" size="5.000000 3.750000" />
+    <ImageTarget name="Shoes2" size="5.000000 5.000000" />
+    <ImageTarget name="Shoes1" size="5.000000 3.190000" />
+    <ImageTarget name="IceCream1" size="5.000000 5.000000" />
+    <ImageTarget name="HeadPhones4" size="5.000000 3.333333" />
+    <ImageTarget name="HeadPhones3" size="5.000000 6.918631" />
+    <ImageTarget name="HeadPhones2" size="5.000000 7.559228" />
+    <ImageTarget name="HeadPhones1" size="5.000000 7.500000" />
+    <ImageTarget name="Cat4" size="5.000000 2.812500" />
+    <ImageTarget name="Cat3" size="5.000000 3.333333" />
+    <ImageTarget name="Cat2" size="5.000000 3.315217" />
+    <ImageTarget name="Cat1" size="5.000000 4.200000" />
+  </Tracking>
+</QCARConfig>

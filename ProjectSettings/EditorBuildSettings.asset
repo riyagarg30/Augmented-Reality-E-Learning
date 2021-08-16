@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginRegister.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 325f691707bf14244939ed04ee146072
+  - enabled: 1
+    path: Assets/Scenes/BoatRealLife.unity
+    guid: 1f217c0543ed5d647837048d95bc36c4
+  - enabled: 1
+    path: Assets/Scenes/CarRealLife.unity
+    guid: 5fa4ce8deb1bc9743ae08bdf81ff0357
+  - enabled: 1
+    path: Assets/Scenes/LS3DM.unity
+    guid: ad60447025fc25d46abc1142dccb8d5c
+  - enabled: 1
+    path: Assets/Scenes/PigRealLife.unity
+    guid: a99fe42dfc5777a4abef42a2c23241f5
+  - enabled: 1
+    path: Assets/Scenes/SheepRealLife.unity
+    guid: b775457aac1fdc24fa5ca94311b0bc51
+  - enabled: 1
+    path: Assets/Scenes/VoiceCommandSearch.unity
+    guid: ae1629c6622c37444b930c486030c301
+  - enabled: 1
+    path: Assets/Scenes/VoiceToText.unity
+    guid: 7253c6e5e4b44074e9eaa7e57d9de589
+  - enabled: 1
+    path: Assets/Scenes/TextToVoice.unity
+    guid: 03c5a858bc6272b4abc45903c6e293a6
+  - enabled: 1
+    path: Assets/Scenes/VoiceChat.unity
+    guid: bf3889fce222f314e844eca45102a82f
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 69d3754f962034648aec5e8b6c01f816
+  - enabled: 1
+    path: Assets/Scenes/QuizBoatRealLife.unity
+    guid: ea2a7f9e85e5cd242b2539d652b98ee3
+  - enabled: 1
+    path: Assets/Scenes/QuizCarRealLife.unity
+    guid: b9dcf28cd91e5414c86548def4bfd5c9
+  - enabled: 1
+    path: Assets/Scenes/QuizPigRealLife.unity
+    guid: 8b9adf324ef342946b9ec5065e9df71a
+  - enabled: 1
+    path: Assets/Scenes/QuizSheepRealLife.unity
+    guid: a18ff69c9b578a34789674b3b398ca72
+  - enabled: 1
+    path: Assets/Scenes/ColourGaze.unity
+    guid: f9de88dfcdb32b740b342614af5b6050
+  - enabled: 1
+    path: Assets/Scenes/MemosAll.unity
+    guid: de2420f41b21b32488680429e4d173d7
+  - enabled: 1
+    path: Assets/Scenes/ImageClassification.unity
+    guid: 68d9d2fd0621b3f4292fc3a3337cdb93
+  - enabled: 1
+    path: Assets/Scenes/ViewScoresPage.unity
+    guid: c0dee4a0395bf9a43af758acfd6b72ce
+  m_configObjects: {}

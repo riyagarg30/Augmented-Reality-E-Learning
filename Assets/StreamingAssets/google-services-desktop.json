@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894719587084",
+    "firebase_url": "https://majorfinalv4-default-rtdb.firebaseio.com",
+    "project_id": "majorfinalv4",
+    "storage_bucket": "majorfinalv4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894719587084:android:de2948b09a027c6af74f29",
+        "android_client_info": {
+          "package_name": "com.RiyaGarg.FinalV4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894719587084-ko843hj1abkm62p0c64t4s3tcfc7uanq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy21vRjPTN7ybfV3E6zv82wg3PPmT6SC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894719587084-ko843hj1abkm62p0c64t4s3tcfc7uanq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
